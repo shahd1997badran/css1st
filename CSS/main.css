@@ -1,0 +1,18 @@
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.service{
+    float: left;
+    width: 33%;
+    text-align: center;
+}
+i{
+    color: white;
+    background-color: yellow;
+    width: 40px;
+    height: 20px;
+    
+}
